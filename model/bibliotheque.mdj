@@ -1229,6 +1229,182 @@
 							"templateParameterCompartment": {
 								"$ref": "AAAAAAGhS5dEZ3jpHX4="
 							}
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAGhTBZZ4nq4mas=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"model": {
+								"$ref": "AAAAAAGhTBZZ4nq2138="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAGhTBZZ4nq5+NE=",
+									"_parent": {
+										"$ref": "AAAAAAGhTBZZ4nq4mas="
+									},
+									"model": {
+										"$ref": "AAAAAAGhTBZZ4nq2138="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGhTBZZ4nq60TE=",
+											"_parent": {
+												"$ref": "AAAAAAGhTBZZ4nq5+NE="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"parentStyle": true,
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGhTBZZ4nq76os=",
+											"_parent": {
+												"$ref": "AAAAAAGhTBZZ4nq5+NE="
+											},
+											"font": "Arial;13;1",
+											"parentStyle": true,
+											"left": 109,
+											"top": 247,
+											"width": 75.419921875,
+											"height": 13,
+											"text": "Reservation"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGhTBZZ4nq8AwA=",
+											"_parent": {
+												"$ref": "AAAAAAGhTBZZ4nq5+NE="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"parentStyle": true,
+											"width": 73.67724609375,
+											"height": 13,
+											"text": "(from Model)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGhTBZZ4nq9ULw=",
+											"_parent": {
+												"$ref": "AAAAAAGhTBZZ4nq5+NE="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"parentStyle": true,
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 104,
+									"top": 240,
+									"width": 85.419921875,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAGhTBZZ4nq60TE="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAGhTBZZ4nq76os="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAGhTBZZ4nq8AwA="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAGhTBZZ4nq9ULw="
+									}
+								},
+								{
+									"_type": "UMLAttributeCompartmentView",
+									"_id": "AAAAAAGhTBZZ4nq+3k8=",
+									"_parent": {
+										"$ref": "AAAAAAGhTBZZ4nq4mas="
+									},
+									"model": {
+										"$ref": "AAAAAAGhTBZZ4nq2138="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 104,
+									"top": 265,
+									"width": 85.419921875,
+									"height": 10
+								},
+								{
+									"_type": "UMLOperationCompartmentView",
+									"_id": "AAAAAAGhTBZZ4nq/0xA=",
+									"_parent": {
+										"$ref": "AAAAAAGhTBZZ4nq4mas="
+									},
+									"model": {
+										"$ref": "AAAAAAGhTBZZ4nq2138="
+									},
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"left": 104,
+									"top": 275,
+									"width": 85.419921875,
+									"height": 10
+								},
+								{
+									"_type": "UMLReceptionCompartmentView",
+									"_id": "AAAAAAGhTBZZ4nrAPOY=",
+									"_parent": {
+										"$ref": "AAAAAAGhTBZZ4nq4mas="
+									},
+									"model": {
+										"$ref": "AAAAAAGhTBZZ4nq2138="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLTemplateParameterCompartmentView",
+									"_id": "AAAAAAGhTBZZ43rBj50=",
+									"_parent": {
+										"$ref": "AAAAAAGhTBZZ4nq4mas="
+									},
+									"model": {
+										"$ref": "AAAAAAGhTBZZ4nq2138="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"parentStyle": true,
+									"width": 10,
+									"height": 10
+								}
+							],
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"containerChangeable": true,
+							"left": 104,
+							"top": 240,
+							"width": 84.419921875,
+							"height": 45,
+							"nameCompartment": {
+								"$ref": "AAAAAAGhTBZZ4nq5+NE="
+							},
+							"attributeCompartment": {
+								"$ref": "AAAAAAGhTBZZ4nq+3k8="
+							},
+							"operationCompartment": {
+								"$ref": "AAAAAAGhTBZZ4nq/0xA="
+							},
+							"receptionCompartment": {
+								"$ref": "AAAAAAGhTBZZ4nrAPOY="
+							},
+							"templateParameterCompartment": {
+								"$ref": "AAAAAAGhTBZZ43rBj50="
+							}
 						}
 					]
 				},
@@ -1337,6 +1513,14 @@
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
 					"name": "Emprunt"
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAGhTBZZ4nq2138=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Reservation"
 				}
 			]
 		},
